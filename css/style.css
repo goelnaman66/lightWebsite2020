@@ -145,6 +145,13 @@ h6 {
 #header #logo {
   float: left;
 }
+#logo{
+  margin-left: 80px;
+}
+#logo-img{
+  margin-left: -210px;
+  margin-top: -20px;
+}
 
 #header #logo h1 {
   font-size: 34px;
